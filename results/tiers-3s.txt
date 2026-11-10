@@ -1,0 +1,16 @@
+  12:3000:shard  20/150  running avg 41.800
+  12:3000:shard  40/150  running avg 41.425
+  12:3000:shard  60/150  running avg 41.517
+  12:3000:shard  80/150  running avg 41.587
+  12:3000:shard  100/150  running avg 41.590
+  12:3000:shard  120/150  running avg 41.608
+  12:3000:shard  140/150  running avg 41.607
+12 threads  3000 ms shard     avg 41.613 [41.466, 41.760]  time mean 2993 p95 3005 max 3008 ms, over budget 19, over +15% 0
+      vs saved 1-core 5 s: +0.887 [0.732, 1.041], shorter 88 longer 2
+      vs stock:            +2.587 [2.363, 2.810], shorter 139 longer 0
+saved 150 solutions to results/tiers-3s.tsv
+
+=== scrambles 600..749 (150), stock avg 44.200, saved 1-core 5 s avg 42.500 ===
+12 threads  3000 ms shard     avg 41.613 [41.466, 41.760]  time mean 2993 p95 3005 max 3008 ms, over budget 19, over +15% 0
+      vs saved 1-core 5 s: +0.887 [0.732, 1.041], shorter 88 longer 2
+      vs stock:            +2.587 [2.363, 2.810], shorter 139 longer 0
