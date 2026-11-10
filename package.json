@@ -1,0 +1,25 @@
+{
+  "name": "quadsolver",
+  "version": "1.0.0",
+  "private": true,
+  "description": "4x4x4 solver that works to a time budget on every core: three-phase reduction searched over many reductions, then Kociemba two-phase",
+  "license": "GPL-3.0",
+  "scripts": {
+    "solve": "node bin/solve.js",
+    "verify": "node bench/verify.js 40 2000",
+    "bench": "node bench/parallel.js --from 1400 --count 300 --configs 12:300,12:1500 --save results/run.tsv",
+    "check": "node bench/check-parallel.mjs results/run.tsv",
+    "bench:single": "node bench/run.js 5000 20",
+    "rng": "node bench/rng.js 200000 200",
+    "analyze": "node bench/analyze.mjs"
+  },
+  "devDependencies": {
+    "cubing": "^0.63.4"
+  },
+  "bin": {
+    "quadsolver": "bin/solve.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
