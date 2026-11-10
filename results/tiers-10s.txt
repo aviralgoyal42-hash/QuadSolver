@@ -1,0 +1,13 @@
+  12:10000:shard  20/80  running avg 41.500
+  12:10000:shard  40/80  running avg 41.400
+  12:10000:shard  60/80  running avg 41.467
+  12:10000:shard  80/80  running avg 41.400
+12 threads 10000 ms shard     avg 41.400 [41.178, 41.622]  time mean 9990 p95 10000 max 10005 ms, over budget 3, over +15% 0
+      vs saved 1-core 5 s: +0.900 [0.704, 1.096], shorter 51 longer 1
+      vs stock:            +2.500 [2.244, 2.756], shorter 75 longer 0
+saved 80 solutions to results/tiers-10s.tsv
+
+=== scrambles 850..929 (80), stock avg 43.900, saved 1-core 5 s avg 42.300 ===
+12 threads 10000 ms shard     avg 41.400 [41.178, 41.622]  time mean 9990 p95 10000 max 10005 ms, over budget 3, over +15% 0
+      vs saved 1-core 5 s: +0.900 [0.704, 1.096], shorter 51 longer 1
+      vs stock:            +2.500 [2.244, 2.756], shorter 75 longer 0
