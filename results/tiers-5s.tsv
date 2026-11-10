@@ -1,0 +1,101 @@
+config	scramble	moves	ms	solution
+12:5000:shard	750	43	4986	U Rw' Dw L' F2 Rw' Dw Rw2 B' L U2 F2 U' Fw Rw2 U L2 Dw2 R D F2 L2 Dw2 Rw2 R U B U2 D' B R2 U' R' B2 U2 F' L2 U2 B2 D2 B' D2 B
+12:5000:shard	751	43	5000	L D' Rw' Fw' D F' Rw B D Fw2 U Fw2 Rw2 R' Fw' D' R D' Fw2 L' Fw2 R Fw2 U' Rw2 R2 F' L2 B2 R2 B2 D2 L R2 B L' B2 F' R2 D U F U
+12:5000:shard	752	39	5002	R F' Dw' D2 F Rw' L D Fw D R Fw2 U2 Fw U' D2 L Fw2 U2 F2 Dw2 F2 R' Dw2 L2 U B2 D2 L2 F R U' D' L U' B' R D B2
+12:5000:shard	753	42	4992	Bw2 Dw Rw' U' R' Bw' L R2 F' D' Bw2 D2 B2 R Dw R' F D2 Rw2 Bw2 R2 D2 F R F2 Dw2 D' F2 U R2 U' L2 R' U' L2 F' B U' F2 R' F R
+12:5000:shard	754	42	4993	U2 Fw' D' Fw Rw' U2 Rw F Dw2 B R2 Dw2 Rw2 Fw D Fw2 D2 L Dw2 F2 U' B2 R D Rw2 F' R' F L' F' L2 B' U' R U' F' U2 F' D2 L2 B D2
+12:5000:shard	755	42	4996	Rw2 B2 Dw' B' R' U' Fw' Rw2 R' U' L' D2 F' Rw' Fw2 L2 F2 L2 D' F Dw2 U2 F Dw2 U' Fw2 U B2 D2 B U2 F U2 D' L' U2 L' U' F R U2 D'
+12:5000:shard	756	42	4989	Rw R B2 F' Rw Fw2 Rw' R2 F' Uw' Rw2 Uw R' Fw2 B U2 B L' B D2 L2 Uw2 Fw2 F' Uw2 L' R' F2 R' D2 F2 R D F L R F U B' D' L' B
+12:5000:shard	757	41	4992	Fw2 Rw' Dw U' B Rw D' F2 U2 Rw2 Fw2 F L2 Dw Rw2 L2 R Dw2 F' L2 Dw2 R' B' Rw2 R U2 R' B L' D2 L2 U B2 F2 U2 L2 F2 D R U R
+12:5000:shard	758	41	4996	Uw2 L2 Fw Rw' R' U2 Fw Uw Rw2 R F' D2 Fw2 Uw Fw2 Rw2 L R2 B L2 F Uw2 B2 L' Fw2 Rw2 F2 U' B' R F L' U R D F2 D' F2 R2 B2 L2
+12:5000:shard	759	41	4994	D' B Rw Fw Rw2 Fw R' F L2 D2 B' Uw' R' F' L Uw2 B' Rw2 F2 R F2 R' Uw2 U' L2 F2 D B' F' U B D2 U2 R2 D2 L B2 L' R U L2
+12:5000:shard	760	41	4986	D' Fw L2 B Uw' Fw' B' U L D2 Fw' U2 B Uw2 U L Fw2 Rw2 D L U B2 R2 Fw2 D2 R' F D2 F' U' B2 D B R B2 D2 L U2 R U2 B
+12:5000:shard	761	42	4992	F' D Bw2 L' Bw Uw' D B' D R2 U2 Bw2 Lw F2 Lw D R2 B' D2 F Uw2 D' B' D2 R2 B' Lw2 R2 F' D2 B L2 U' L' B2 U2 B2 D2 B' L U2 F
+12:5000:shard	762	42	4991	Bw L Bw2 Lw' L2 U' R' Bw' U' B' D L B' L Dw F2 Dw2 B' Dw2 Bw2 D2 R F2 Dw2 F2 Lw2 L2 U R2 U2 L' F2 R2 B2 U' B L F2 R' U2 L' B2
+12:5000:shard	763	39	5005	F' Rw Uw' D' B Uw' Rw R Uw2 L2 F2 L2 Fw' U2 R' U L' U F2 Rw2 L R2 Uw2 D' Rw2 D R2 F2 L' B2 D2 R' U2 L' F' D' F2 U R
+12:5000:shard	764	42	4987	Rw' L2 R F U Rw' Dw' U2 B' L U Rw' B Dw2 B' D2 Bw2 D Bw2 B' U2 Rw2 F Rw2 R' F2 B' L2 B' D' R' B R2 D' L2 F2 B2 D F2 R' F U'
+12:5000:shard	765	40	5005	Uw2 D2 R' Uw D Rw' Uw2 L2 U2 B2 L2 Uw' U2 Fw2 L2 D2 L2 R B' L Fw2 L' Fw2 R' Fw2 F2 D U' L2 U2 L' R2 U' R B' U F' R D2 R'
+12:5000:shard	766	42	4985	R L2 Bw' D2 F' Lw2 F Dw D' R2 L' D F' Lw' B Lw2 F' R2 U F Lw2 B' U2 D Lw2 U2 L2 U' F2 L2 F2 U2 F2 U B' L2 F D F2 R' B D2
+12:5000:shard	767	41	4987	D Bw' Uw F B L2 Uw D Bw R2 Uw2 U2 R' B D' L2 D2 U Rw2 D' Bw2 L' U' Rw2 R2 Uw2 F U2 R2 B2 D2 U B2 R U L' F D2 L' R B
+12:5000:shard	768	41	4991	L2 Fw2 L Fw2 D' R' Dw' B R2 U D' Lw B D B Dw2 L2 B' U2 B' Lw2 D' B Lw2 Fw2 R' U F' U L U' B' U R' U' L2 B' F R2 F L2
+12:5000:shard	769	41	4994	B R2 Dw' Fw L' Dw' Lw U2 R2 F' Lw B U Lw2 U D Lw2 D' B' Lw2 B2 D' F U2 B' Lw2 D R U B D2 F' U F' U2 D2 R2 F D F D'
+12:5000:shard	770	43	4989	Uw' D' L2 Fw B F' Uw Fw2 Lw' B U2 F Lw' R F' Lw' F2 D2 Lw2 D' Fw2 B' R2 U' F2 Lw2 Fw2 D2 R2 D' B2 R D B2 U2 B2 U2 F L2 F R U B'
+12:5000:shard	771	43	5000	U2 Fw2 Dw Rw Dw2 U' Fw' L Dw' R F2 Dw L2 D' Rw2 Dw2 R2 F' Dw2 F' D2 Rw2 R Fw2 B' Dw2 F2 U2 D2 L R2 B' R' U' R' F R2 U2 D2 F' U2 D B
+12:5000:shard	772	41	4988	U' Bw Uw' B2 Uw' B2 Rw U' B' Rw L R F' D' U' R2 Bw2 F2 U2 F U' Rw2 D Bw2 Uw2 F D' L D' L U2 F U2 F L2 F D2 B' D' L' B
+12:5000:shard	773	43	4994	Fw R2 Uw R2 U Rw Fw U L' Uw' L D R2 Uw B2 L' U2 Fw2 L B Uw2 Fw2 B2 R F' Uw2 U B' R' D B U B F' R2 D' F U2 R2 F2 U2 L R'
+12:5000:shard	774	40	4990	Lw' U F2 B' Uw2 Bw U2 Lw2 B2 Uw2 L Uw' U B D2 L2 B2 Uw2 Lw2 L2 F L' Bw2 Uw2 L2 B2 R2 D2 F L D U2 F2 U2 F' U2 F L2 D' L2
+12:5000:shard	775	41	4986	Bw' R L2 Dw' D2 Bw R' F2 U Lw F D2 Bw2 U Lw Bw2 F2 U Lw2 Dw2 B Lw2 Bw2 F' Lw2 B2 L' U2 B2 U2 R' U' D' B R2 F' B2 R F' U R'
+12:5000:shard	776	41	4987	U' B' Rw D L' Uw' F' Rw F2 D2 R2 Fw Uw2 D' R Uw2 L R D L2 U2 B2 D2 Rw2 R Fw2 D2 B2 D' L' U2 F D' L2 D' L2 R2 D L2 D' F2
+12:5000:shard	777	40	4992	R' Fw Dw2 L' Dw' B F Lw2 D L B2 Lw' U' B2 L2 U Fw2 F U Fw2 D F2 U' Fw2 L U2 L2 B' F' U2 B2 F' D' R' D2 R F2 U2 F U'
+12:5000:shard	778	42	4989	Lw D' Bw' Uw R2 L Bw Lw2 F' Uw2 F D' B2 R Uw F2 L' B' L' Bw2 Lw2 Uw2 F2 R' U2 R2 Bw2 B2 U' R' D F D2 F2 R D2 B2 L' D2 U B2 L
+12:5000:shard	779	41	4998	Lw2 F Uw L' Bw Lw' Bw2 R' U2 Lw2 Bw2 R' Bw D2 U F2 R Uw2 Lw2 R2 D F2 D Lw2 Bw2 L2 U2 R U2 R B2 R' B2 U2 L' U' F D' F D L'
+12:5000:shard	780	42	4994	R' D2 Rw' F2 Uw' R' Fw L R2 Uw' F' R2 B Uw L Uw2 F' U2 R Fw2 D2 F2 Uw2 F' Uw2 D R D' R2 D2 R' D F2 R2 D L2 B' L2 F L2 F2 U2
+12:5000:shard	781	41	4994	R' Bw Rw' L2 Uw B' Rw Uw' D B2 R2 B2 D2 R' Uw U2 Bw2 Rw2 Uw2 L B2 D2 B' Rw2 D' B2 L' B2 U2 R2 F B R2 B R' F' B2 R U' F' B'
+12:5000:shard	782	41	4986	U2 R2 Dw' U B Rw Fw' U2 D2 B D2 Rw2 U2 Rw' Dw2 U2 Fw2 F2 D Fw2 B' F' D' R2 Dw2 Fw2 U' F R' U2 B2 L' U2 B D' L' B2 F' L' R F'
+12:5000:shard	783	40	4996	Fw Rw' D Rw' Uw' Fw L B' R' F' Uw' Fw2 F2 U' L B' U2 L' D2 Rw2 Fw2 R' Fw2 D2 F2 D2 R' U2 L' R D L R2 U' R' U' L' U2 F' R
+12:5000:shard	784	42	4992	B D2 Bw' F2 B Uw' Bw F Uw' U' L' Uw L' F2 B' Lw2 R2 B R Uw2 B U2 L' F2 Uw2 Bw2 F2 D2 B L2 D2 L2 U' B' U2 R U' F' U' L U' F'
+12:5000:shard	785	41	4989	D2 U Lw' F2 R B Uw L F' D2 Lw2 F' U Lw' L2 Fw2 B R2 Fw2 D Lw2 B F' U' Lw2 Fw2 D2 L2 D' F2 L2 U' L' B' R B' L D R U2 F
+12:5000:shard	786	43	4985	Uw' Fw Lw2 U' Lw U2 Lw U2 F2 Uw' R U' L2 B Uw L Uw2 L U2 F' Uw2 L2 F R L2 Uw2 D' R2 B2 R2 D' B' F2 R F2 U L' F2 U2 F2 U2 F2 R2
+12:5000:shard	787	40	4995	L' B U2 Rw Uw D' Rw U' B Rw2 Uw2 Fw F U B' U' Fw2 R2 D Rw2 D' R' D2 R2 Uw2 B F' U' L R D2 R' B U' R2 U' B2 U2 R' D'
+12:5000:shard	788	42	4985	Uw' F' D2 B R2 Fw2 Rw L Uw' Rw2 B' R' B Uw R' B' Rw2 D2 B' L2 D2 Rw2 B' R' Fw2 Uw2 D2 L' B R2 D' U2 R2 F2 D' B U B2 U2 F2 U L2
+12:5000:shard	789	40	4989	Uw D2 Bw Rw' Bw L2 Uw' Bw L2 Uw2 L2 R2 Bw' R' D Bw2 U2 Rw2 L D2 F2 R' Bw2 Uw2 D B' D U L2 U' F' L' F2 B2 R' D2 U2 R2 B2 D2
+12:5000:shard	790	42	4991	F' Rw2 B R Uw Fw D' F2 L2 Fw2 Rw2 F2 U Rw' B' Uw2 U' B' D2 B2 F U' Fw2 Uw2 F' Uw2 D2 F' L' R D2 R D L' D' F2 U R2 D L2 B' R'
+12:5000:shard	791	43	4989	L Fw Uw' Rw F2 R' Uw' B' U2 Rw2 L U2 Fw D' L2 D' L' D2 R Fw2 D Fw2 L F2 Uw2 Rw2 R D L' B' F2 D R2 F U B F2 D' B2 D R2 F2 R2
+12:5000:shard	792	42	5005	Lw R' Bw D2 B2 Uw Lw2 F' R U B2 L D' U2 Lw' B' U L2 D' L2 U' Bw2 D2 F Lw2 L B D2 R2 D2 F D' F2 L' B' L F2 D2 L F2 B2 L'
+12:5000:shard	793	39	4991	F2 D Lw' Dw' D Lw B Dw' B' R' D2 Lw F' Lw R F2 Dw2 U' D' F2 Lw2 U Lw2 Dw2 L D R U' L2 B' L' D' R2 F2 U2 F2 B2 R B
+12:5000:shard	794	42	4985	L2 R B' U' Bw F Rw' Bw' D L' D Bw D' B' U' Bw2 L' F2 Rw2 D Bw2 U' Bw2 Dw2 R' Dw2 L' F' U' B R' U' B' L2 D2 L F' U2 R2 F' B' R2
+12:5000:shard	795	42	4989	U B2 L2 Fw2 D2 Fw Uw D F' L' Fw' F' U R' F2 L2 R' Uw2 D Rw2 Fw2 D R Uw2 F' U' F D U B' L D' B2 U' B2 D L2 D' B2 D' R2 F'
+12:5000:shard	796	43	4991	Rw2 Fw L' Fw D Rw' F2 Dw Rw D R' D Rw' L2 Fw2 F U' R2 D' Rw2 Fw2 D' L2 B Rw2 L' D' L' D2 L D' B F' L' B2 F2 U' R2 U2 D' F2 U2 L'
+12:5000:shard	797	43	4994	Rw D F Uw F Uw2 B Rw' F Uw2 B L Uw' D U F Uw2 Rw2 L' F' Uw2 B L' R' Uw2 Bw2 F2 B U' R2 U' F' U2 R D' R B' L2 R2 F' B' R2 F'
+12:5000:shard	798	42	4990	U2 F2 Dw2 Bw L' U' D2 Rw' D Rw2 Bw2 F Dw' U B' R2 U2 L' B2 L' D2 Bw2 R' F Rw2 U' R2 B L2 D' L' D' R' D B' U2 F2 L2 F R2 F' D2
+12:5000:shard	799	42	4993	F2 Uw' L2 B Uw' U2 Rw' Uw' U' F U' Rw2 L2 Uw Rw2 Fw2 B' F2 Uw2 B D2 Rw2 F R' Fw2 Uw2 D R B' U B L' B2 F' D U L2 B2 F2 L' D L2
+12:5000:shard	800	42	4989	D2 Fw' L' R Uw Fw L Uw R D B Rw' B L2 F L U Fw2 U F2 U' B2 Uw2 B' D2 Rw2 R2 F' D L U2 R' U2 L F2 U L U2 B' U' F L2
+12:5000:shard	801	40	4998	U' Fw' D2 Fw2 R' Uw' Rw' R2 Fw2 Rw' B' U2 R' F2 D B' R2 Uw2 Fw2 D' Rw2 D2 B2 R2 U Rw2 R2 F2 R D2 L2 R U2 F' D2 U R' B' R2 B
+12:5000:shard	802	42	4987	D' Rw B2 Dw2 Rw' Dw Rw R2 Dw2 Rw Fw2 B2 U' Rw' D' L2 U D Rw2 D' Fw2 D2 F2 D2 Rw2 F Dw2 L2 U2 F L2 U2 D' B2 F' U' L' B F2 R2 D2 L2
+12:5000:shard	803	42	4985	F' U R2 B' Rw' Fw Rw' R F Uw2 Fw2 D2 Fw U' R U2 Fw2 Uw2 R D Fw2 R' U Fw2 D2 L F2 R' B2 F2 U2 L2 B' L U' F' D U L' U' R2 U2
+12:5000:shard	804	42	4993	D' F2 B Rw' B2 Rw' L Bw U Bw2 Uw2 R2 F2 U' Bw Uw2 D' R2 D2 U' Rw2 F2 L D Bw2 F' L B' D' F B L R2 U L B2 L' U2 F2 U2 R2 D2
+12:5000:shard	805	41	4984	Lw2 B' U Lw2 Uw' Fw Lw2 B' D2 F Uw2 Fw2 F' Uw B' D2 F L' F2 D2 B' Lw2 F' U2 Fw2 Lw2 F' L B2 F R2 L F2 R B F2 U R2 L F2 L
+12:5000:shard	806	41	4990	Lw L Fw' L Dw' R' D Lw2 D2 F Dw2 B L Fw R U R' U' R' B2 Lw2 D Fw2 B2 Dw2 Lw2 L2 D F2 R' L2 F2 D2 F2 U' B D2 L2 U' L' F2
+12:5000:shard	807	42	4984	Uw' Fw2 L' Fw B Lw' Uw F D2 R' B' R' Uw2 Lw' R2 D2 Lw2 U2 L2 D B' Lw2 Fw2 F' Lw2 F' L' B2 U2 R2 D2 L' U' B2 R F R2 F' D2 B' R2 F2
+12:5000:shard	808	41	4983	B2 Dw U L' U2 Bw' B' Lw2 L' U' Bw2 L B Dw B' Lw2 R2 F' B Lw2 R' B' R' D2 Bw2 Dw2 F U2 R2 U2 R F2 B2 L B' U' L D2 L' F' R2
+12:5000:shard	809	42	4992	L' U R2 Fw R Uw' Fw2 R U' Fw' R2 B D2 R' L Fw2 U2 L U Fw2 Uw2 F2 U' L' Uw2 U' L D2 L D2 R U2 R D2 F R' D B' R' L2 B2 D'
+12:5000:shard	810	41	4998	L' F' D' Bw' B' Dw' L2 B2 U' R2 U' Bw2 R Bw B2 D' R' Bw2 D' B2 D2 L D' Bw2 Lw2 Dw2 B L D2 B2 R' B2 U2 B' U' F' B U D2 R' L2
+12:5000:shard	811	41	4993	B R2 D2 Lw Dw D2 Lw U R' Bw2 F2 L' Bw' Dw2 Bw2 L2 D' R U' Bw2 R' U' L' D' L Bw2 D' F' U2 F' B2 D2 F' D R2 F2 U' L B' L2 U2
+12:5000:shard	812	41	4994	F' U' L Bw' Lw R2 Bw2 D R2 Bw R2 Bw L Uw2 Bw L2 D2 U' Lw2 Uw2 L2 F2 Uw2 B2 R Bw2 L F2 B2 D2 L U' B' U2 F2 U' L' B2 D B2 R
+12:5000:shard	813	42	4988	Rw2 L Fw2 R Dw2 Rw Fw' D' Fw2 Dw2 L B R2 Dw R2 U2 Fw2 R2 D2 B Rw2 B' F R' Fw2 L' Fw2 U' D2 B F2 L2 B' L2 D2 R' D' F2 R' U' L2 B'
+12:5000:shard	814	41	4988	Rw2 Fw Rw U' L' Uw' R' D2 Fw2 U2 B' U' Rw Fw2 F2 U R2 Fw2 L2 B' Rw2 Uw2 B' F' D Rw2 D2 R2 D U L' D R' B' L2 R2 B U2 B2 L F'
+12:5000:shard	815	39	4992	D2 R2 Fw2 R2 B' Lw' Uw B2 F' Lw' F' U R' D' L2 F' D' Fw2 Lw2 B2 D F Uw2 R' L' B' R2 B R2 L D F L2 F2 R' B2 D2 L2 B2
+12:5000:shard	816	41	4985	L' Bw2 U Rw2 L' Bw B' Rw U' D2 R2 D Rw' U D R2 Dw2 F' D Rw2 B' L2 Bw2 D' Rw2 L2 F2 B2 U F2 U' R' D' L D' L2 B R F' L U
+12:5000:shard	817	42	4985	U2 L' R F' Rw U' Fw' R2 B L' U Fw2 R' Dw D' F' L Fw2 Rw2 U2 L' Fw2 D2 B' Rw2 L B U' R2 B2 D2 R' F2 R' U' B F' R D' L B F'
+12:5000:shard	818	42	4989	Lw U2 L Dw' D' Fw' R' U' R' F2 R Fw2 Lw' F2 U2 Lw2 D' Fw2 B2 U' F' Lw2 B2 F' Lw2 U' L' B R' L' D2 B2 D2 L' F2 L' U' F' R2 D2 R' L'
+12:5000:shard	819	41	4989	R' B2 Rw Bw Rw R F' R Dw2 L' U2 D' Rw2 Dw' B D2 F R Dw2 L2 F Rw2 R Bw2 Dw2 L R U B L B2 U2 B2 U' R' D2 R B2 L' R' D2
+12:5000:shard	820	41	4987	F2 L Dw U R2 Bw Lw' F2 Dw2 U2 Lw2 B2 Dw' F R L' Dw2 F U2 F Dw2 L2 D2 B' Lw2 U2 R2 B2 R2 F R2 F2 L' D' B U F2 U' B2 D' B2
+12:5000:shard	821	42	4983	D2 Bw D2 Lw U' Bw2 Lw' U2 D B R U' R' Bw' R2 U' F2 R' U L D Bw2 L' Bw2 Lw2 U2 B' U D L2 F2 B' U L2 U2 F2 B2 U' F2 D2 B2 R2
+12:5000:shard	822	42	4990	Lw F' D2 Fw2 D Lw D2 R' Fw' R2 U2 F' R Fw' U' L' D' Fw2 B2 R' D2 F2 Lw2 Dw2 F' U2 D' F L U L' B R' B' R2 L' D2 R2 D2 F2 D B2
+12:5000:shard	823	43	4988	U Rw' L' Uw U' B D2 Rw B2 Rw2 L2 R' F2 L2 Fw Uw2 U F2 L2 Fw2 L2 U Rw2 L R2 Uw2 L' D' R U2 B' D2 F' R2 D2 L F L2 D2 F2 D2 F2 L2
+12:5000:shard	824	42	4994	L Bw2 D' R' Bw Rw' L2 R B2 D R2 D' Bw D U2 Bw2 D' F2 Uw2 R Uw2 R' U Rw2 B2 Rw2 F' D F D' L' U F L B2 L D2 F2 D2 R2 F' L'
+12:5000:shard	825	42	4995	Rw Bw' Dw2 F B2 Dw' U' D' L2 R Bw2 R Bw F D R Dw2 F2 U2 B2 R Dw2 D R Dw2 F U R2 D2 L2 B' D2 F' B' D' B' L2 D2 R D' F2 D
+12:5000:shard	826	42	4989	R2 Fw Dw2 R2 D2 Fw Rw F' Dw' Rw2 D B2 Dw' R U2 Fw2 B Dw2 B' R' U2 B Dw2 F' Rw2 D B2 U R2 B2 F2 R F2 L' R2 U L2 B' L U F2 U2
+12:5000:shard	827	43	4991	Uw2 D' F2 Uw' Fw F2 Lw2 Fw U Lw R2 D2 B Lw D' R U2 B2 F D' F2 Lw2 R2 D Lw2 Uw2 D F2 D' L F2 U F' R2 D2 B F' D B2 U2 B2 L2 U
+12:5000:shard	828	43	4987	Rw L D2 Fw R' Uw' Rw2 B U F' R' U2 R Fw' D F2 Rw2 Uw2 L' B2 L2 B2 Uw2 U R Uw2 U R' D' B' D' F' U B D R2 D2 B2 L' R' D2 B2 L2
+12:5000:shard	829	42	4988	F2 Rw U D Rw2 Dw Rw' R' F D Fw2 U R' F Dw B2 L' F Rw2 Dw2 B R D2 F2 L' Fw2 R2 D' R B U B2 R U' F2 D' L2 U' B2 F R B
+12:5000:shard	830	42	4988	F Uw2 Rw' U B2 Rw' L2 B' L B' Rw2 L2 Bw2 L' Uw' R2 Uw2 B' R B' L2 Uw2 L' U2 Bw2 Rw2 B2 D' R2 D R' B' D2 R' F2 B2 D2 F' D2 L2 F2 B'
+12:5000:shard	831	43	4986	L F' Dw2 R' Bw' Lw' R D Bw2 L B2 L2 B Dw U2 B2 R L' F' D2 L Dw2 B R Dw2 R Bw2 B D' L2 B' U2 L F' R' U2 D' R2 B2 U2 B L' U'
+12:5000:shard	832	41	4990	D L2 D Bw Dw2 L Dw D F' Dw2 R2 Bw' U' R' U' R' Bw2 D2 Lw2 F2 R Dw2 R2 Dw2 F2 U L2 D' F2 D2 F B2 R U B' L' F2 B2 L U L
+12:5000:shard	833	41	4987	Rw2 Uw Rw2 D Rw2 Fw' L Uw' L2 R2 D R B F2 Uw' R U2 Rw2 R2 B2 R' B' Rw2 L' Uw2 R B D U2 F2 L F2 L' R2 U2 B' F2 L D2 U R2
+12:5000:shard	834	41	4994	B' Dw' Fw' U' B Rw Dw' L' R2 U2 L2 R2 U Rw' U' L2 Dw2 U' R2 Fw2 Rw2 D' B' Rw2 F D' R' U F' L D2 R' B' U2 D' B2 R' D2 L U2 R
+12:5000:shard	835	42	4986	Fw R' Fw F Uw Fw2 B' F2 D Fw' D' L R' Fw' L2 D2 F2 L' D Rw2 Uw2 R' U' L' U' Fw2 D2 L B' L B2 L2 F D' L U' L' F2 R D2 R' F2
+12:5000:shard	836	41	4993	Uw Rw2 Uw2 L2 Uw B Rw Bw' L' F' B2 D2 Rw2 Bw' L2 R Uw2 U2 L' Bw2 B2 U R2 Bw2 F B R D B D' R' F2 U L2 D' F2 D B2 L F' D'
+12:5000:shard	837	43	4993	Uw' R' Uw' L F2 Rw Uw' Rw B L2 Uw2 Rw' D2 B2 Rw2 L D2 B' Uw2 Fw2 F U B Uw2 F' Uw2 D' U' L R F L D U B2 D U' F2 U' B2 F D' B
+12:5000:shard	838	43	4994	U2 Lw Fw2 Uw2 L2 Uw Fw' L Fw U2 B' R2 U Fw F U2 Lw2 U R2 L F2 U R U' Lw2 Uw2 D F D2 B' L2 F' L2 B2 D2 L' B F' D2 R U' L2 F'
+12:5000:shard	839	41	4990	D R2 F2 Uw R' B2 Lw' Uw' D' Fw L2 Uw2 F2 Lw2 F' Uw2 U' Fw2 L' F2 R U Lw2 F2 Uw2 L' D R2 B L2 D2 B' R2 U2 R2 F U R U L' B'
+12:5000:shard	840	42	4987	L2 F2 Uw' R' Fw2 Rw' Uw D2 Fw2 F' R' Fw2 Rw' U2 Rw L2 D' U' Rw2 D B' F' Uw2 U Fw2 D' R2 D2 R2 U2 B R2 B' F' D2 B R' B' D2 F2 U F
+12:5000:shard	841	41	4987	R Uw2 Rw F' Rw' Bw D2 Rw' Bw2 B2 R' U2 Bw2 D' Rw F U B2 Uw2 U2 B D Rw2 F2 Uw2 Bw2 B2 R' U2 L2 B' U F2 B' L D2 B2 L R D2 R2
+12:5000:shard	842	41	4990	R2 Bw' Lw2 L2 B Lw B R Bw D2 R B' L' Bw' D' U' R2 L2 Uw2 F2 Uw2 B2 R' U Lw2 Uw2 F L' D2 U F2 U R F B2 L2 B D2 B D R'
+12:5000:shard	843	40	4985	Dw' U' D2 B' Rw Bw Rw2 Dw' R' U' R2 D2 F' Rw' L2 B2 Dw2 U F2 Rw2 U' Rw2 U2 B' R2 Dw2 R2 U' B D R D' F2 L2 D2 F' B2 L U2 L
+12:5000:shard	844	42	4994	B2 Dw R B Lw' L' Fw' Dw2 U2 R' F Lw' B' D' L' F Lw2 R2 F D' Fw2 B2 U Lw2 F D2 B2 D L B' D B2 R' F2 D2 F2 R2 U' L2 U' F2 R2
+12:5000:shard	845	41	4991	F Lw R2 Fw' Uw' F' Uw' Lw R2 F' D' U2 L F Lw' Fw2 Uw2 U2 F D B F2 Uw2 Fw2 L' U2 L D R L2 U' L D2 B2 R2 B2 D' B2 D B2 D
+12:5000:shard	846	42	4989	Uw L2 B2 Lw2 B' Uw' Fw F' U' F' Lw' L' F2 U2 R' Fw2 D F' U2 F2 Lw2 L2 B D Lw2 Uw2 B' U B R2 L' D R' L' D' B' F2 L B2 L' D2 R2
+12:5000:shard	847	43	4993	Fw2 D Rw2 Fw2 B2 Uw Fw Uw L' D2 Fw2 Uw L' D2 Rw2 R2 B2 F Rw2 R F L Uw2 Fw2 L Uw2 B2 L2 B U2 L2 F U2 B2 D U2 B2 U2 R2 U B L U2
+12:5000:shard	848	42	4994	Bw' U2 R Uw2 L' Uw Rw' Uw2 U R B2 D' Bw Uw2 Bw2 F2 D2 R' U' R B2 Rw2 F2 L' Uw2 L2 R D' B' L' R B L2 D2 B2 L2 D U2 L2 B' D2 B2
+12:5000:shard	849	42	4991	L Dw' L2 Bw R' Dw' F Lw2 L2 F' B U B' Lw D B' L2 B2 L2 U' F2 Lw2 B' Dw2 D Lw2 U' B2 U R2 D2 B2 R2 D F U' D' R' B' L F' R'
