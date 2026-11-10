@@ -1,0 +1,87 @@
+  1:0:stock  20/300  running avg 44.000
+  1:0:stock  40/300  running avg 44.250
+  1:0:stock  60/300  running avg 44.200
+  1:0:stock  80/300  running avg 44.237
+  1:0:stock  100/300  running avg 44.130
+  1:0:stock  120/300  running avg 44.183
+  1:0:stock  140/300  running avg 44.157
+  1:0:stock  160/300  running avg 44.206
+  1:0:stock  180/300  running avg 44.239
+  1:0:stock  200/300  running avg 44.255
+  1:0:stock  220/300  running avg 44.291
+  1:0:stock  240/300  running avg 44.313
+  1:0:stock  260/300  running avg 44.331
+  1:0:stock  280/300  running avg 44.350
+  1:0:stock  300/300  running avg 44.377
+ 1 threads     0 ms stock     avg 44.377 [44.237, 44.516]  time mean 131 p95 311 max 673 ms
+      vs saved 1-core 5 s: -1.830 [-1.960, -1.700], shorter 0 longer 255
+      vs stock:            +0.000 [0.000, 0.000], shorter 0 longer 0
+  12:300:shard  20/300  running avg 43.100
+  12:300:shard  40/300  running avg 42.975
+  12:300:shard  60/300  running avg 43.067
+  12:300:shard  80/300  running avg 43.025
+  12:300:shard  100/300  running avg 42.930
+  12:300:shard  120/300  running avg 42.975
+  12:300:shard  140/300  running avg 42.964
+  12:300:shard  160/300  running avg 43.000
+  12:300:shard  180/300  running avg 42.967
+  12:300:shard  200/300  running avg 42.970
+  12:300:shard  220/300  running avg 42.973
+  12:300:shard  240/300  running avg 43.013
+  12:300:shard  260/300  running avg 42.992
+  12:300:shard  280/300  running avg 42.989
+  12:300:shard  300/300  running avg 43.007
+12 threads   300 ms shard     avg 43.007 [42.891, 43.122]  time mean 296 p95 304 max 311 ms, over budget 33, over +15% 0
+      vs saved 1-core 5 s: -0.460 [-0.572, -0.348], shorter 27 longer 119
+      vs stock:            +1.370 [1.231, 1.509], shorter 214 longer 5
+  12:1000:shard  20/300  running avg 41.950
+  12:1000:shard  40/300  running avg 42.150
+  12:1000:shard  60/300  running avg 42.250
+  12:1000:shard  80/300  running avg 42.225
+  12:1000:shard  100/300  running avg 42.150
+  12:1000:shard  120/300  running avg 42.167
+  12:1000:shard  140/300  running avg 42.171
+  12:1000:shard  160/300  running avg 42.194
+  12:1000:shard  180/300  running avg 42.161
+  12:1000:shard  200/300  running avg 42.170
+  12:1000:shard  220/300  running avg 42.159
+  12:1000:shard  240/300  running avg 42.167
+  12:1000:shard  260/300  running avg 42.196
+  12:1000:shard  280/300  running avg 42.193
+  12:1000:shard  300/300  running avg 42.203
+12 threads  1000 ms shard     avg 42.203 [42.098, 42.309]  time mean 994 p95 1005 max 1018 ms, over budget 36, over +15% 0
+      vs saved 1-core 5 s: +0.343 [0.232, 0.455], shorter 105 longer 32
+      vs stock:            +2.173 [2.034, 2.313], shorter 273 longer 0
+  12:1500:shard  20/300  running avg 41.800
+  12:1500:shard  40/300  running avg 41.975
+  12:1500:shard  60/300  running avg 42.067
+  12:1500:shard  80/300  running avg 42.050
+  12:1500:shard  100/300  running avg 41.990
+  12:1500:shard  120/300  running avg 42.000
+  12:1500:shard  140/300  running avg 41.979
+  12:1500:shard  160/300  running avg 41.981
+  12:1500:shard  180/300  running avg 41.950
+  12:1500:shard  200/300  running avg 41.970
+  12:1500:shard  220/300  running avg 41.964
+  12:1500:shard  240/300  running avg 41.967
+  12:1500:shard  260/300  running avg 41.992
+  12:1500:shard  280/300  running avg 41.996
+  12:1500:shard  300/300  running avg 41.997
+12 threads  1500 ms shard     avg 41.997 [41.890, 42.103]  time mean 1492 p95 1504 max 1516 ms, over budget 24, over +15% 0
+      vs saved 1-core 5 s: +0.550 [0.436, 0.664], shorter 133 longer 23
+      vs stock:            +2.380 [2.237, 2.523], shorter 278 longer 0
+saved 1200 solutions to results/tiers-short.tsv
+
+=== scrambles 300..599 (300), stock avg 44.377, saved 1-core 5 s avg 42.547 ===
+ 1 threads     0 ms stock     avg 44.377 [44.237, 44.516]  time mean 131 p95 311 max 673 ms
+      vs saved 1-core 5 s: -1.830 [-1.960, -1.700], shorter 0 longer 255
+      vs stock:            +0.000 [0.000, 0.000], shorter 0 longer 0
+12 threads   300 ms shard     avg 43.007 [42.891, 43.122]  time mean 296 p95 304 max 311 ms, over budget 33, over +15% 0
+      vs saved 1-core 5 s: -0.460 [-0.572, -0.348], shorter 27 longer 119
+      vs stock:            +1.370 [1.231, 1.509], shorter 214 longer 5
+12 threads  1000 ms shard     avg 42.203 [42.098, 42.309]  time mean 994 p95 1005 max 1018 ms, over budget 36, over +15% 0
+      vs saved 1-core 5 s: +0.343 [0.232, 0.455], shorter 105 longer 32
+      vs stock:            +2.173 [2.034, 2.313], shorter 273 longer 0
+12 threads  1500 ms shard     avg 41.997 [41.890, 42.103]  time mean 1492 p95 1504 max 1516 ms, over budget 24, over +15% 0
+      vs saved 1-core 5 s: +0.550 [0.436, 0.664], shorter 133 longer 23
+      vs stock:            +2.380 [2.237, 2.523], shorter 278 longer 0
